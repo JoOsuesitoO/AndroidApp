@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intentos</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="action_about">Sobre nosotros</string>
+    <string name="action_contact">Contacto</string>
+    <string name="action_payment">Pagos</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_rotate">Rotar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Previo</string>
+
+    <string name="lorem_ipsum">
+        Mori Calliope es una cantante y rapera virtual de Hololive Production, reconocida por su voz
+        distintiva y actuaciones cautivadoras. Como parte de la rama en inglés, mezcla géneros
+        musicales como rap y rock, a menudo incorporando temas de la muerte y el más allá. Su
+        personaje como la "parca" le da un toque único a sus canciones, lo que le ha ganado una gran
+        base de seguidores internacionales.
+    </string>
+</resources>

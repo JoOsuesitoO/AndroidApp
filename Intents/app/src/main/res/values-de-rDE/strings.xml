@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_about">Über</string>
+    <string name="action_contact">Kontakt</string>
+    <string name="action_payment">Zahlung</string>
+    <string name="action_help">Hilfe</string>
+    <string name="action_rotate">Drehen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Erstes Fragment</string>
+    <string name="second_fragment_label">Zweites Fragment</string>
+    <string name="next">Weiter</string>
+    <string name="previous">Zurück</string>
+
+    <string name="lorem_ipsum">
+        Mori Calliope ist eine virtuelle Sängerin und Rapperin bei Hololive Production, bekannt für
+        ihre markante Stimme und fesselnden Auftritte. Als Mitglied des englischen Zweigs verbindet
+        sie Musikgenres wie Rap und Rock und greift häufig Themen wie Tod und das Jenseits auf. Ihre
+        Persona als „Sensenmann“ verleiht ihren Songs eine einzigartige Note und hat ihr eine große
+        internationale Fangemeinde eingebracht.
+    </string>
+</resources>

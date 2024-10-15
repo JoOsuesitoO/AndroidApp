@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="azulito">#2E82FF</color>
+    <color name="azulitoDark">#1B4A8F</color>
+    <color name="verdesisto">#18A100</color>
+    <color name="amarisho">#FFE600</color>
+    <color name="Juan">#712000</color>
+
+
+</resources>
